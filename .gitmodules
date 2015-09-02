@@ -1,0 +1,3 @@
+[submodule "FR_model_SM"]
+	path = FR_model_SM
+	url = git://github.com/misho104/FR_model_SM.git
